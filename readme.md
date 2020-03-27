@@ -7,3 +7,4 @@ I'm constantly doing small, one-off analyses that require a bit of effort to do,
 ## Solutions
 
 - Plot the cumulative number of genomes for a given species that have been uploaded to SRA over time
+- Remove positions with gaps from a multifasta alignment 
